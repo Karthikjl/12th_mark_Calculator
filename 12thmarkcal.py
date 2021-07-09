@@ -1,3 +1,7 @@
+print("""Notice :
+            This is a program devoleped for learning purpose.
+            This program can approximately calculate your 12th mark.
+            Thanks for using this.""")
 
 mark_10_1 = int(input("Enter the 1st best mark you get in 10th : "))
 mark_10_2 = int(input("Enter the 2nd best mark you get in 10th : "))
